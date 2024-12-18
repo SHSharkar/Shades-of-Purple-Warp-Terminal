@@ -1,0 +1,37 @@
+name: "Shades of Purple (Super Dark)"
+author: "Md. Sazzad Hossain Sharkar"
+origin_url: "https://github.com/SHSharkar/Shades-of-Purple-Warp-Terminal"
+
+accent: 
+  left: "#FAD000"
+  right: "#FF9D00"
+
+background:
+  left: "#15152a"
+  right: "#191830"
+
+foreground: "#E1EFFF"
+cursor: "#FAD000"
+
+details: darker
+
+terminal_colors:
+  normal:
+    black: "#15152a"
+    red: "#EC3A37"
+    green: "#3AD900"
+    yellow: "#FAD000"
+    blue: "#6943FF"
+    magenta: "#FF2C70"
+    cyan: "#80FCFF"
+    white: "#E1EFFF"
+  
+  bright:
+    black: "#5C5C61"
+    red: "#FF628C"
+    green: "#A5FF90"
+    yellow: "#FFEE80"
+    blue: "#7857FE"
+    magenta: "#FB94FF"
+    cyan: "#9EFFFF"
+    white: "#FFFFFF"
