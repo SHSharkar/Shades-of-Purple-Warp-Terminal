@@ -2,6 +2,10 @@
 
 A collection of carefully crafted Shades of Purple themes for Warp Terminal, offering both classic and super dark variants.
 
+![Screenshot-2024-12-19-00 55 58-A26CE693-79A3-48A4-92B1-452860F74691](https://github.com/user-attachments/assets/46e92fdd-435c-43a4-aa85-c2a2e97d61b9)
+
+![Screenshot-2024-12-19-00 59 57-82220F3C-233E-435A-852E-A226A74C12C8](https://github.com/user-attachments/assets/5ccac0bb-bac1-490f-9cbd-ddeba7d81b70)
+
 ## 🎨 Available Themes
 
 1. 🟣 **Shades of Purple (Classic)**
@@ -77,7 +81,13 @@ curl -o ~/.warp/themes/shades_of_purple_super_dark.yaml https://raw.githubuserco
 
 ## 🖼️ Preview
 
-[Add theme preview screenshots here]
+![Screenshot-2024-12-19-00 55 58-A26CE693-79A3-48A4-92B1-452860F74691](https://github.com/user-attachments/assets/46e92fdd-435c-43a4-aa85-c2a2e97d61b9)
+
+![Screenshot-2024-12-19-00 56 28-4650ABF6-F2E5-4B01-B505-5234A341F8E4](https://github.com/user-attachments/assets/bef33022-a32f-4034-a067-5591a94743d3)
+
+![Screenshot-2024-12-19-00 59 57-82220F3C-233E-435A-852E-A226A74C12C8](https://github.com/user-attachments/assets/5ccac0bb-bac1-490f-9cbd-ddeba7d81b70)
+
+![Screenshot-2024-12-19-01 00 21-9756041C-56BC-45B2-B9D3-9BAEB82B61E5](https://github.com/user-attachments/assets/0028ee36-133c-46c6-822b-58950a5d5cd6)
 
 ## 🤝 Contributing
 
