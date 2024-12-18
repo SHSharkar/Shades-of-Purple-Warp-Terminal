@@ -1,6 +1,6 @@
 # Shades of Purple for Warp Terminal
 
-A collection of carefully crafted Shades of Purple themes for Warp Terminal, offering both classic and super dark variants.
+A collection of carefully crafted Shades of Purple themes for Warp Terminal (https://www.warp.dev), offering both classic and super dark variants.
 
 ![Screenshot-2024-12-19-00 55 58-A26CE693-79A3-48A4-92B1-452860F74691](https://github.com/user-attachments/assets/46e92fdd-435c-43a4-aa85-c2a2e97d61b9)
 
